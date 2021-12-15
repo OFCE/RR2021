@@ -26,4 +26,4 @@ Graphiques 1 à 3 : [g1 g2.r](repere_europe_2022/XT_dette_post_covid/g1_g2.R) ; 
 
 Tableau simulation : le code doit tourner dans  dwr pour utiliser debtwatch, il est copié ici.
 Penser à mettre le wd au bon niveau (may the force be with you) 
-[simulation.r](repere_europe_2022/XT_dette_post_covid/simulations.R)
+[simulations.r](repere_europe_2022/XT_dette_post_covid/simulations.R)
