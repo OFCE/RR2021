@@ -16,7 +16,7 @@ Graphiques : [AE_11-21/dette_fr.r](AE_21-11/dette_fr.r)
 
 ### La dette publique en zone euro après le COVID, par Xavier Timbeau
 
-Graphiques 1 à 3 : [g1 g2.r](repere_europe_2022/XT_dette_post_covid/g1_g2.r) ; [g3.r](repere_europe_2022/XT_dette_post_covid/g3.r)
+Graphiques 1 à 3 : [g1 g2.r](repere_europe_2022/XT_dette_post_covid/g1_g2.R) ; [g3.r](repere_europe_2022/XT_dette_post_covid/g3.R)
 
 ![](repere_europe_2022/XT_dette_post_covid/g1_repere.svg)
 
@@ -26,4 +26,4 @@ Graphiques 1 à 3 : [g1 g2.r](repere_europe_2022/XT_dette_post_covid/g1_g2.r) ; 
 
 Tableau simulation : le code doit tourner dans  dwr pour utiliser debtwatch, il est copié ici.
 Penser à mettre le wd au bon niveau (may the force be with you) 
-[repere europe 2022/simulation.r](repere_europe_2022/XT_dette_post_covid/simulations.r)
+[simulation.r](repere_europe_2022/XT_dette_post_covid/simulations.R)
