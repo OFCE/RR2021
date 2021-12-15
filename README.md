@@ -2,7 +2,7 @@
 
 Reproductibilité des graphiques 2021 sous R
 
-Les codes pour reproduire uen partie des graphiques publiés soint mis dasn ce dépôt. Chaque dossier correspond à une publication.
+Les codes pour reproduire les graphiques (une partie) publiés sont mis dans ce dépôt. Chaque dossier correspond à une publication pour l'année 2021.
 
 ## Alternative Economiques hors série janvier 2021 :
 
@@ -24,6 +24,6 @@ Graphiques 1 à 3 : [repere europe 2022/g1 g2.r](repere%20europe%202022/g1%20g2.
 
 ![](repere%20europe%202022/XT%20dette%20post%20covid/g3_repere.svg)
 
-Tableau simulation : le code doit tourner dans  dwr pour utiliser debtwatch, il est copié ici
-Penser à mettre le wd au bon niveau (good luck with that !) 
+Tableau simulation : le code doit tourner dans  dwr pour utiliser debtwatch, il est copié ici.
+Penser à mettre le wd au bon niveau (may the force be with you) 
 [repere europe 2022/simulation.r](repere%20europe%202022/simulations.r)
