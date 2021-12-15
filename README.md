@@ -1,4 +1,4 @@
-# RR2021
+# OFCE Repro année 2021
 
 Reproductibilité des graphiques 2021 sous R
 
@@ -26,4 +26,4 @@ Graphiques 1 à 3 : [repere europe 2022/g1 g2.r](repere%20europe%202022/g1%20g2.
 
 Tableau simulation : le code doit tourner dans  dwr pour utiliser debtwatch, il est copié ici
 Penser à mettre le wd au bon niveau (good luck with that !) 
-[repere europe 2022/g1 g2.r](repere%20europe%202022/simulations.r)
+[repere europe 2022/simulation.r](repere%20europe%202022/simulations.r)
