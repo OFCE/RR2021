@@ -6,19 +6,19 @@ Les codes pour reproduire les graphiques (une partie) publiés sont mis dans ce 
 
 ## Alternative Economiques :
 
-### hors série janvier 2021; 
+### hors série janvier 2021;
 
 *Dette post-covid : l'austérité est-elle nécessaire ?* par Xavier Timbeau
 
-Graphiques : [AE_11-21/dette_fr.r](AE_21-11/dette_fr.r)
+Graphiques : [AE_21-11/dette_fr.r](AE_21-11/dette_fr.r)
 
 <img src="AE_21-11/altereco.svg" width="291"/>
 
-### Chronique Altereco décembre 2021 ; 
+### Chronique Altereco décembre 2021 ;
 
 *Nombre de fonctionnaires : la France n'en a pas plus que les autres* par Xavier Timbeau
 
-Graphique : [AE_11-21/COFOG.r](AE_21-11/COFOG.r)
+Graphique : [AE_21-12/COFOG.r](AE_21-11/COFOG.r)
 
 <img src="AE_21_12/fonctionnaires en masse salariale.svg" width="278"/>
 
