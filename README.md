@@ -18,7 +18,7 @@ Graphiques : [AE_21-11/dette_fr.r](AE_21-11/dette_fr.r)
 
 *Nombre de fonctionnaires : la France n'en a pas plus que les autres* par Xavier Timbeau
 
-Graphique : [AE_21-12/COFOG.r](AE_21-11/COFOG.r)
+Graphique : [AE_21-12/COFOG.r](AE_21-12/COFOG.r)
 
 <img src="AE_21_12/fonctionnaires en masse salariale.svg" width="278"/>
 
